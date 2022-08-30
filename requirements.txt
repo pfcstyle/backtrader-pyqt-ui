@@ -1,0 +1,10 @@
+git+https://github.com/backtrader2/backtrader
+matplotlib
+requests
+websocket
+websocket-client
+oandapy
+qdarkstyle
+stable_baselines3
+git+https://github.com/oanda/oandapy.git
+git+https://github.com/Skinok/finplot.git
